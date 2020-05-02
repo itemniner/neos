@@ -9,3 +9,4 @@ class NearEarthObjectsTest < Minitest::Test
     assert_equal '(2019 GD4)', results[:astroid_list][0][:name]
   end
 end
+ 
